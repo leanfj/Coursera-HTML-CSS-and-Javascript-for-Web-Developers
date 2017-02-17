@@ -99,9 +99,25 @@ body {
 }
 /*Small devices only*/
 @media  (min-width: 768px) and (max-width: 991px) {
-	
+
 }
 /*Extra small devices only*/
 @media (max-width: 767px) {
-
+	/*header*/
+	.navbar-brand {
+		padding-top: 10px;
+		height: 80px;
+	}
+	.navbar-brand h1 {/*restaurant name*/
+		padding-top: 10px;
+		font-size: 5vw;
+	}
+	.navbar-brand p {/*kosher cert*/
+		font-size: .6em;
+		margin-top: 12px;
+	}
+	.navbar-brand p img {/*star-k*/
+		height: 20px;
+	}
+	/*end header*/
 }
