@@ -80,3 +80,28 @@ body {
 	clear: both;
 	margin-top: -30px;
 }
+/*end header */
+
+/*larger devices only*/
+@media (min-width: 1200px) {
+
+}
+/*Medium devices only*/
+@media (min-width: 992px) and (max-width: 1199px) {
+	/*header*/
+	#logo-img {
+		background: url('../images/restaurant-logo_medium.png') no-repeat;
+		width: 100px;
+		height: 100px;
+		margin: 5px 5px 5px 0;
+	}
+	/*end header*/
+}
+/*Small devices only*/
+@media  (min-width: 768px) and (max-width: 991px) {
+	
+}
+/*Extra small devices only*/
+@media (max-width: 767px) {
+
+}
