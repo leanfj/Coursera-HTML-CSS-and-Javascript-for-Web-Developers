@@ -293,5 +293,12 @@ body {
 		width: 280px;
 		margin: 0 auto 15px;
 	}
-
+	.col-xxs-12 {
+		float: left;
+		position: relative;
+		width: 100%;
+  	min-height: 1px;
+  	padding-right: 15px;
+  	padding-left: 15px;
+	}
 }
