@@ -87,6 +87,17 @@ body {
 	box-shadow: 0 0 50px #3f0c1f;
 	border: 2px solid #3f0c1f;
 }
+#menu-tile, #specials-tile, #map-tile {
+	height: 250px;
+	width: 100%;
+	margin-bottom: 15px;
+	position: relative;
+	border: 2px solid #3f0c1f;
+	overflow: hidden;
+}
+#menu-tile:hover, #specials-tile:hover, #map-tile:hover {
+	box-shadow: 0 1px 5px 1px #ccc;
+}
 
 /*end home page*/
 
