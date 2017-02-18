@@ -118,8 +118,37 @@ body {
 	color: #fff;
 	opacity: .7;
 }
-
 /*end home page*/
+
+/*footer*/
+.panel-footer {
+	margin-top: 30px;
+	padding-top: 35px;
+	padding-bottom: 30px;
+	background-color: #222;
+	border-top: 0;
+}
+.panel-footer div.row {
+	margin-bottom: 35px;
+}
+#hours, #address {
+	line-height: 2;
+}
+#hours > span, #address > span {
+	font-size:1.3em;
+}
+#address p {
+	color: #557c3e;
+	font-size: .8em;
+	line-height: 1.8;
+}
+#testimonials {
+	font-style: italic;
+}
+#testimonials p:nth-child(2) {
+	margin-top: 25px;
+}
+/*end footer*/
 
 /*MEDIA QUERIES*/
 /*larger devices only*/
@@ -211,6 +240,18 @@ body {
 		margin: 0 auto 15px;
 	}
 	/*end home page*/
+	/*footer*/
+	.panel-footer section {
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.panel-footer section:nth-child(3) {
+		margin-bottom: 0;
+	}
+	.panel-footer section hr {
+		width: 60%;
+	}
+	/*end footer*/
 }
 /*Extra Extra small devices only*/
 @media (max-width: 479px) {
@@ -219,6 +260,7 @@ body {
 		padding-top: 5px;
 		font-size: 6vw;
 	}
+	/*end header*/
 	/*home page*/
 	#menu-tile, #specials-tile {
 		width: 280px;
