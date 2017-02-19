@@ -1,0 +1,68 @@
+body { 
+	padding-top: 70px;
+}
+h1 {
+	margin-top: 0;
+	font-size: 20px;
+}
+#nav-list {
+	background-color: #999;
+	margin-top: 0;
+}
+#nav-list li:nth-child(2){
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+#nav-list li a {
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.box {
+	padding: 10px;
+	background-color: #999;
+	height: 700px;
+	margin-bottom: 20px;
+}
+.box h3 {
+	text-align: center;
+}
+#chicken {
+	position: relative;
+}
+#chicken span{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+}
+#chicken span a {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+#beef {
+	position: relative;
+}
+#beef span{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+}
+#beef span a {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+#sushi {
+	position: relative;
+}
+#sushi span{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+}
+#sushi span a {
+	text-transform: uppercase;
+	font-weight: bold;
+}
