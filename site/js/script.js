@@ -67,6 +67,7 @@ var switchMenuToActive = function () {
 	});
 
 	dc.loadMenuCategories = function () {
+		switchMenuToActive();
 		showLoading("#main-content");
 		$ajaxTest.sendGetRequest(
 			allCategoriesUrl,
