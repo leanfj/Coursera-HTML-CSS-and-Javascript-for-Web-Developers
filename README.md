@@ -8,7 +8,7 @@ Repository for pratice conclusion of course: HTML, CSS and Javascript for Web De
 	SEMÂNTICA
 ##CSS
 	RESPONSIVIDADE
-	BOOTSTRAP
+	FRAMEWORK BOOTSTRAP
 ##JAVASCRIPT
 	MANIPULAÇÃO DE DOM
 	HTTP REQUEST
