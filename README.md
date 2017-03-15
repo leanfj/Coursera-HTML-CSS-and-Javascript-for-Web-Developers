@@ -17,10 +17,11 @@ Repository for pratice conclusion of course: HTML, CSS and Javascript for Web De
 	Implementação de modificação dinâmica de conteúdo dentro do HTML utilizando AJAX
 
 ### Links para Soluções de exercícios
-	[module2-solution](https://leanfj.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/module2-solution/)
-	[module3-solution](https://leanfj.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/module3-solution/)
-	[module4-solution](https://leanfj.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/module4-solution/harder/)
-	[module5-solution](https://leanfj.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/module5-solution/)
+
+[module2-solution](https://leanfj.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/module2-solution/)
+[module3-solution](https://leanfj.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/module3-solution/)
+[module4-solution](https://leanfj.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/module4-solution/harder/)
+[module5-solution](https://leanfj.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/module5-solution/)
 
  PROJETO DESENVOLVIDO DURANTE O CURSO [LINK](https://leanfj.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/site/)
 
