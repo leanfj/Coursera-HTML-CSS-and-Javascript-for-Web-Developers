@@ -2,14 +2,14 @@ Repositório para conclusão prática do curso Coursera: HTML, CSS and Javascrip
 
 Repository for pratice conclusion of course: HTML, CSS and Javascript for Web Developers by Coursera
 
-#Conhecimentos desenvolvidos durante o curso:
+# Conhecimentos desenvolvidos durante o curso:
 
-##HTML
+#### HTML
 	SEMÂNTICA
-##CSS
+#### CSS
 	RESPONSIVIDADE
 	FRAMEWORK BOOTSTRAP
-##JAVASCRIPT
+#### JAVASCRIPT
 	MANIPULAÇÃO DE DOM
 	HTTP REQUEST
 	AJAX
@@ -25,8 +25,8 @@ Repository for pratice conclusion of course: HTML, CSS and Javascript for Web De
 
  PROJETO DESENVOLVIDO DURANTE O CURSO [LINK](https://leanfj.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/site/)
 
-###ORGANIZAÇÃO - COURSERA / Johns Hopkins University
-###INDETIFICAÇÃO - HTML, CSS, and Javascript for Web Developers
-###PROFESSOR - [Yaakov Chaikin](https://www.coursera.org/instructor/yaakov-chaikin)
+### ORGANIZAÇÃO - COURSERA / Johns Hopkins University
+### INDETIFICAÇÃO - HTML, CSS, and Javascript for Web Developers
+### PROFESSOR - [Yaakov Chaikin](https://www.coursera.org/instructor/yaakov-chaikin)
 
 Data de conclusão 26/02
